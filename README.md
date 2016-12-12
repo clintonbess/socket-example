@@ -4,8 +4,8 @@
 <div style="text-align:center"><img src ="notPalindrome.png" width="400" /></div>
 
 ## Prerequesites
-  node.js
-  a browser(IE, Chrome, Firefox)
+  - Node.js
+  - a browser(Chrome, Firefox, etc)
 
 ## Dependencies
   - pug - html renderer
