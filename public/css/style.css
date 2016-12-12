@@ -1,0 +1,18 @@
+.form-container {
+  width: 100%;
+  padding: 0 0 0 20px;
+}
+.answer-container {
+  width: 100%;
+  padding: 50px 0 0 0;
+}
+.text-input {
+  padding: 0 0 15px 0;
+}
+.chk-btn {
+  padding: 0 0 0 30px;
+}
+.header {
+  width: 100%;
+  padding: 0 0 0 20px;
+}

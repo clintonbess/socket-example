@@ -1,0 +1,28 @@
+doctype html
+html  
+  head
+    link(type='text/css' rel='stylesheet' href='css/basscss.min.css')
+    link(type='text/css' rel='stylesheet' href='css/style.css')
+    meta(charset='UTF-8')
+    title= title
+  script(src="libs/socket.io.js")
+  script(src="js/socketInit.js")
+  body()
+    div(class="clearfix mb2 white bg-black")
+        div(class="left header") 
+            h1() A Socket Example
+    div(class="form-container flex flex-wrap")
+        div(class="text-input")
+            input(id="palindrome-field" type="text" placeholder="Enter A Palindrome" name="palindrome-message")
+        div(class="chk-btn" onclick="checkPalindrome()")
+            button(class="btn btn-primary mb1 bg-green") Check
+    div(class="answer-container")
+        div(style="visibility: hidden; display: none" id="is-palindrome" class="center p1 bg-green")
+            span() Palindrome!
+        div(style="visibility: hidden; display: none" id="not-palindrome" class="center p1 bg-red")
+            span() Not a palindrome!
+  script(src="js/key-press.js")
+
+
+    
+
