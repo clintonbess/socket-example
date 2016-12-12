@@ -47,7 +47,7 @@ brew install node
 - See the following link: http://blog.teamtreehouse.com/install-node-js-npm-windows
 
 ## Installation
-- First clone this repository by navigating to your desired projects directory and entering the following command:
+- First clone this repository by navigating to your projects directory and entering the following command into your terminal:
 ```
 git clone https://github.com/clintonbess/socket-example.git
 ```
