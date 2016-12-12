@@ -13,7 +13,7 @@
   - serve-favicon - servers favicon image
   - socket.io - handles web socket
 
-## Node.js Installation (Ubuntu)
+## Installing Node.js on Linux Ubuntu
 - To install Node.js, type the following command in your terminal:
 ```
 sudo apt-get install nodejs
@@ -32,7 +32,7 @@ node -v
 npm -v
 ```
 
-## Node.js Installation (Mac)
+## Installing Node.js on Mac
 
 - If you don't have Homebrew installed already, install it by entering the following command into your terminal:
 ```
@@ -43,7 +43,25 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 brew install node
 ```
 
-## Node.js Installation (Windows)
+## Installing Node.js on Windows
 - See the following link: http://blog.teamtreehouse.com/install-node-js-npm-windows
 
+## Installation
+- First clone this repository by navigating to your desired projects directory and entering the following command:
+```
+git clone https://github.com/clintonbess/socket-example.git
+```
+- Navigate to the socket-example directory:
+```
+cd socket-example
+```
+- Install the required Node.js dependencies:
+```
+sudo npm install
+```
+- Start the server:
+```
+npm start
+```
+- In your browser, navigate to http://localhost:8000 to see the socket example in action!
 
