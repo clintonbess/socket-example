@@ -14,24 +14,24 @@
   - socket.io - handles web socket
 
 ## Node.js Installation (Ubuntu)
-  - To install Node.js, type the following command in your terminal:
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;</br>
-  ```
-  sudo apt-get install nodejs
-  ```
-  - Then install the Node package manager, npm:
-  ```
-  sudo apt-get install npm
-  111
-  - Create a symbolic link for node, as many Node.js tools use this name to execute.
-  ```
-  sudo ln -s /usr/bin/nodejs /usr/bin/node
-  ```
-  - Check the current versions of Node.js and npm enter the following commands:
-  ```
-  node -v
-  npm -v
-  ```
+- To install Node.js, type the following command in your terminal:
+<!-- <br>&nbsp;&nbsp;&nbsp;&nbsp;</br> -->
+```
+sudo apt-get install nodejs
+```
+- Then install the Node package manager, npm:
+```
+sudo apt-get install npm
+111
+- Create a symbolic link for node, as many Node.js tools use this name to execute.
+```
+sudo ln -s /usr/bin/nodejs /usr/bin/node
+```
+- Check the current versions of Node.js and npm enter the following commands:
+```
+node -v
+npm -v
+```
 
 
 
