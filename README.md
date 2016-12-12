@@ -26,7 +26,7 @@ sudo apt-get install npm
 ```
 sudo ln -s /usr/bin/nodejs /usr/bin/node
 ```
-- Check the current versions of Node.js and npm enter the following commands:
+- To check the current versions of Node.js and npm enter the following commands:
 ```
 node -v
 npm -v
@@ -63,5 +63,5 @@ sudo npm install
 ```
 npm start
 ```
-- In your browser, navigate to http://localhost:8000 to see the socket example in action!
+- In your browser, navigate to localhost:8000 to see the socket example in action!
 
