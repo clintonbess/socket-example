@@ -5,14 +5,11 @@ var loaded = 0;
 initSocket();
 
 function initSocket() {
-
   socket.on('palindrome-answer', function (answer) {
     if (answer === 1) {
-      console.log('yes');
       displayAnswer('is-palindrome');
     }
     else {
-      console.log('no');
       displayAnswer('not-palindrome');
     }
   });
