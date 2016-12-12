@@ -32,5 +32,18 @@ node -v
 npm -v
 ```
 
+## Node.js Installation (Mac)
+
+- If you don't have Homebrew installed already, install it by entering the following command into your terminal:
+```
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+- After brew is installed you can install both Node.js and npm by entering in:
+```
+brew install node
+```
+
+## Node.js Installation (Windows)
+- See the following link: http://blog.teamtreehouse.com/install-node-js-npm-windows
 
 
