@@ -5,7 +5,7 @@
 
 ## Prerequesites
   - Node.js
-  - a browser(Chrome, Firefox, etc)
+  - A browser(Chrome, Firefox, etc)
 
 ## Dependencies
   - pug - html renderer
