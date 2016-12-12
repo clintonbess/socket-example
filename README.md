@@ -1,4 +1,4 @@
 # socket-example  
 
-<div style="margin:auto"><img src ="isPalindrome.png" width="400"/></div>
-<div style="text-align:center"><img src ="notPalindrome.png" width="400" /></div>
+<img src ="isPalindrome.png" width="400"/>
+<img src ="notPalindrome.png" width="400"/>
