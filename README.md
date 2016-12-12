@@ -10,7 +10,7 @@
 ## Dependencies
   - pug - html renderer
   - express - html server
-  - serve-favicon - servers favicon image
+  - serve-favicon - serves favicon image
   - socket.io - handles web socket
 
 ## Installing Node.js on Linux Ubuntu
