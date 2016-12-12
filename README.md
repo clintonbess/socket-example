@@ -15,6 +15,7 @@
 
 ## Node.js Installation (Ubuntu)
   - To install Node.js, type the following command in your terminal:
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;</br>
   ```
   sudo apt-get install nodejs
   ```
@@ -31,6 +32,6 @@
   node -v
   npm -v
   ```
-  
+
 
 
