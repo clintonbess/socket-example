@@ -1,7 +1,5 @@
 var socket = io.connect('http://localhost:8000');
 
-var loaded = 0;
-
 initSocket();
 
 function initSocket() {
